@@ -3,7 +3,7 @@ import { getAuth, setPersistence, browserSessionPersistence } from 'firebase/aut
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBUp7xAa4pB3rvrKWDalmLoTGAkdHS62zA",
+  apiKey: "***************************",
   authDomain: "neyemekyapsam-16840.firebaseapp.com",
   projectId: "neyemekyapsam-16840",
   storageBucket: "neyemekyapsam-16840.appspot.com",
