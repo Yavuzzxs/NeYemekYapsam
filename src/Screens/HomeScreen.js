@@ -13,7 +13,7 @@ export default function HomeScreen() {
         <Searchbar/>
       </View>
       <View style={styles.list}>
-      <Text>Ana Ekrana</Text>
+      <Text>Ana Ekran</Text>
       </View>
     </SafeAreaView>
     <ExpoStatusBar style="auto"/>
@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     marginTop: StatusBar.currentHeight,
-    backgroundColor:"darkgreen",
+    backgroundColor:"gray",
   },
   search: {
     padding: 15,
